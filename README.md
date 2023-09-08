@@ -26,6 +26,6 @@ If you are not building a project for your Github with a tutorial, do that after
 For a long time. You need to learn every day... for. the. rest. of. your. life.
 
 ## Cya!
-<img width="500" src="https://github.com/miharajster/How-to-Learn-from-Youtube/blob/main/lib/gaybois.gif"/>
+<img width="500" src="https://github.com/miharajster/How-to-Learn-from-Youtube/blob/main/lib/gay_bois.gif"/>
 
 That's it. Now learn!
