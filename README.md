@@ -1,10 +1,18 @@
 # How to Learn from Youtube (to be a programmer)
 
-<img width="100%" src="https://raw.githubusercontent.com/miharajster/How-to-Learn-from-Youtube/main/lib/girl_learning.jpg"/>
+<img width="100%" src="https://raw.githubusercontent.com/miharajster/How-to-Learn-from-Youtube/main/lib/girl_learning.jpg"/><br/>
+V 1.0.0
+
+- [Intro](https://github.com/miharajster/How-to-Learn-from-Youtube#intro)
+- [Preparation](https://github.com/miharajster/How-to-Learn-from-Youtube#preparation)
+- [We need to go deeper!](https://github.com/miharajster/How-to-Learn-from-Youtube#we-need-to-go-deeper)
+- [A word about learning!](https://github.com/miharajster/How-to-Learn-from-Youtube#a-word-about-learning)
+- [Cya!](https://github.com/miharajster/How-to-Learn-from-Youtube#cya)
+
+## Intro
+<img width="500" src="https://github.com/miharajster/How-to-Learn-from-Youtube/blob/main/lib/no-time-busy.gif"/>
 
 This will be very short and sweet, so you can start learning in no time.
-
-<img width="500" src="https://github.com/miharajster/How-to-Learn-from-Youtube/blob/main/lib/no-time-busy.gif"/>
 
 ## Preparation
 First you will need to get a basic knowledge about the topic that you want to learn. I use [Fireship](https://www.youtube.com/@Fireship)'s XXXX in 100s for that. If there is no video about your topic, search for a short video that is a level higher of a topic that you need to know (If you need to learn Keycloak (open source identity and access management solution) for instance, look up OAuth (protocol that you will be using) first).
