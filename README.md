@@ -4,18 +4,18 @@
 
 This will be very short and sweet, sou you can start learning in no time.
 
-<img width="100%" src="https://github.com/miharajster/How-to-Learn-from-Youtube/blob/main/lib/no-time-busy.gif"/>
+<img width="500" src="https://github.com/miharajster/How-to-Learn-from-Youtube/blob/main/lib/no-time-busy.gif"/>
 
 ## Preparation
 First you will need to get a basic knowledge about the topic that you want to learn. I use https://www.youtube.com/@Fireship 's XXXX in 100s for that. If there is no video in your topic, search for a short video that is a level higher of a topic that you need to know (If you need to learn Keylocak (open source identity and access management solution) for instance, look up OAuth (protocol that you will be using) first).
 
 ## We need to go deeper!
-<img width="100%" src="https://github.com/miharajster/How-to-Learn-from-Youtube/blob/main/lib/deeper.jpg"/>
+<img width="500" src="https://github.com/miharajster/How-to-Learn-from-Youtube/blob/main/lib/deeper.jpg"/>
 
 So, now you know what the thing that you need to know about is. It's time to learn a bit more. Find a tutorial series about the topic and follow it. Learn for a maximum of 2 hours. You will need to do that everyday until you know enough about it.
 
 ## A word on how to learn
-<img width="100%" src="https://github.com/miharajster/How-to-Learn-from-Youtube/blob/main/lib/wax.jpg"/>
+<img width="500" src="https://github.com/miharajster/How-to-Learn-from-Youtube/blob/main/lib/wax.jpg"/>
 
 A word about learning. Learn for a maximum of 2 hours a day. Preferably 1 hour.
 
@@ -26,6 +26,6 @@ If you are not building a project for your Github with a tutorial, do that after
 For a long time. You need to learn every day... for. the. rest. of. your. life.
 
 ## Cya!
-<img width="100%" src="https://github.com/miharajster/How-to-Learn-from-Youtube/blob/main/lib/gaybois.gif"/>
+<img width="500" src="https://github.com/miharajster/How-to-Learn-from-Youtube/blob/main/lib/gaybois.gif"/>
 
 That's it. Now learn!
