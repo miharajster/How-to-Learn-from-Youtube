@@ -7,7 +7,7 @@ This will be very short and sweet, so you can start learning in no time.
 <img width="500" src="https://github.com/miharajster/How-to-Learn-from-Youtube/blob/main/lib/no-time-busy.gif"/>
 
 ## Preparation
-First you will need to get a basic knowledge about the topic that you want to learn. I use [https://www.youtube.com/@Fireship](Fireship)'s XXXX in 100s for that. If there is no video about your topic, search for a short video that is a level higher of a topic that you need to know (If you need to learn Keylocak (open source identity and access management solution) for instance, look up OAuth (protocol that you will be using) first).
+First you will need to get a basic knowledge about the topic that you want to learn. I use [Fireship](https://www.youtube.com/@Fireship)'s XXXX in 100s for that. If there is no video about your topic, search for a short video that is a level higher of a topic that you need to know (If you need to learn Keylocak (open source identity and access management solution) for instance, look up OAuth (protocol that you will be using) first).
 
 ## We need to go deeper!
 <img width="500" src="https://github.com/miharajster/How-to-Learn-from-Youtube/blob/main/lib/deeper.jpg"/>
