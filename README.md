@@ -9,6 +9,12 @@ V 1.0.0
 - [A word about learning!](https://github.com/miharajster/How-to-Learn-from-Youtube#a-word-about-learning)
 - [Cya!](https://github.com/miharajster/How-to-Learn-from-Youtube#cya)
 
+
+
+https://github.com/miharajster/How-to-Learn-from-Youtube/assets/33149554/17abdea4-5bc3-48ad-9a77-de30e9b80d0f
+
+
+
 ## Intro
 <img width="500" src="https://github.com/miharajster/How-to-Learn-from-Youtube/blob/main/lib/no-time-busy.gif"/>
 
